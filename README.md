@@ -27,3 +27,10 @@ Bash scripting
 6. Created automated backup script using tar
 
 ## Backup Script Example
+#!/bin/bash
+tar -czvf backup.tar.gz /project
+
+
+## Outcome
+
+Built and managed a Linux server environment including web hosting and automated backup processes.
